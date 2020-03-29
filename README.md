@@ -1,2 +1,2 @@
 # Curso-GitHub-DEVCODE-Calendario
-GitHub - https://devcode.la/cursos/git/
+## Ejercicio realizado en DevCode
